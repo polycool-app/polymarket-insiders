@@ -5,7 +5,7 @@ Polymarket insiders are wallets that exhibit suspicious trading patterns such as
 
 Tracking these Polymarket insiders gives you an edge that most traders miss.
 
-Polycool is a free Telegram app that detects and tracks Polymarket insiders in real time so you can copy their trades with one tap.
+Polycool is a Telegram app that detects and tracks Polymarket insiders in real time so you can copy their trades with one tap.
 
 > Open Polycool on Telegram
 > https://t.me/PolycoolApp_bot
@@ -145,8 +145,6 @@ Get Started
 
 Join more than 3000 traders already using Polycool to track Polymarket insiders and copy top traders.
 
--> Free to use
--> No sign up required
 
 ---
 
